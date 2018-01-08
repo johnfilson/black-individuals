@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
     selector: 'navi-bar',
     template: `
                 <div class="top-bar">
-                    <div class="top-bar-title">GigaByte Gaming Company</div>
+                    <div class="top-bar-title">Black Individuals Blog</div>
                     <div>
                         <ul class="menu">
                             <li class="nav-menu"><a [routerLink]="['admin']">Admin Area</a></li>
